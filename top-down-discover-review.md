@@ -1,4 +1,4 @@
-# 基于深度学习的人体姿态估计:综述
+# 
 
 imagenet
 
@@ -24,5 +24,5 @@ https://blog.csdn.net/cjnewstar111/article/details/115284760
 
 
 
-计划，用transfer迁移到
+
 
